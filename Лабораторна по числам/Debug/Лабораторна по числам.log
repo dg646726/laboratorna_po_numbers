@@ -1,0 +1,3 @@
+﻿  Header.cpp
+D:\Visual studio\Лабораторна по числам\Лабораторна по числам\Header.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Лабораторна по числам.vcxproj -> D:\Visual studio\Лабораторна по числам\Debug\Лабораторна по числам.exe
